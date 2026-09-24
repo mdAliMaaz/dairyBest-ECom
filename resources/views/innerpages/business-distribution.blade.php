@@ -75,22 +75,30 @@
                 </div>
                 <div class="dist-audience-grid md:mt-12 mt-8">
                     <div class="dist-audience-card about-reveal" data-about-delay="0">
-                        <i class="ph ph-coffee text-4xl"></i>
+                        <div class="dist-audience-card__icon" aria-hidden="true">
+                            <i class="ph-bold ph-coffee"></i>
+                        </div>
                         <div class="heading6 mt-5">Cafés & coffee shops</div>
                         <p class="caption1 text-secondary mt-2">Sauces, syrups, and beverage bases for signature drinks and desserts.</p>
                     </div>
                     <div class="dist-audience-card about-reveal" data-about-delay="100">
-                        <i class="ph ph-cake text-4xl"></i>
+                        <div class="dist-audience-card__icon" aria-hidden="true">
+                            <i class="ph-bold ph-cake"></i>
+                        </div>
                         <div class="heading6 mt-5">Bakeries & patisseries</div>
                         <p class="caption1 text-secondary mt-2">Creams, fillings, and glazes for pastries, donuts, and plated desserts.</p>
                     </div>
                     <div class="dist-audience-card about-reveal" data-about-delay="200">
-                        <i class="ph ph-building text-4xl"></i>
+                        <div class="dist-audience-card__icon" aria-hidden="true">
+                            <i class="ph-bold ph-buildings"></i>
+                        </div>
                         <div class="heading6 mt-5">Restaurants & hotels</div>
                         <p class="caption1 text-secondary mt-2">Consistent ingredients for high-volume kitchens and premium menus.</p>
                     </div>
                     <div class="dist-audience-card about-reveal" data-about-delay="300">
-                        <i class="ph ph-factory text-4xl"></i>
+                        <div class="dist-audience-card__icon" aria-hidden="true">
+                            <i class="ph-bold ph-factory"></i>
+                        </div>
                         <div class="heading6 mt-5">Manufacturers & caterers</div>
                         <p class="caption1 text-secondary mt-2">Bulk supply for production lines, events, and food service operations.</p>
                     </div>
